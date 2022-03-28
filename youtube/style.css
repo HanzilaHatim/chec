@@ -1,0 +1,39 @@
+#abc{
+    width: 100px;
+    height: 90px;
+}
+#de{
+    width: 900px;
+    height: 30px;
+    position: relative;
+    bottom: 35px;
+}
+li{
+    list-style: none;
+    margin: 40px;
+
+    
+}
+iframe{
+    
+
+    position: relative;
+    bottom: 400px;
+    left: 180px;
+    width: 300px;
+    height: 200px;
+}
+#li{
+    position: relative;
+    bottom: 30px;
+    left: 50px;
+    height: 40px;
+    width: 90px;
+
+
+}
+#op{
+ position: relative;
+ top: -30px;
+  
+}
